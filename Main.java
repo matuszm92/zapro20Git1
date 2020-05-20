@@ -3,7 +3,7 @@ class Main {
     System.out.println("Hello home!");
     System.out.println("Hello home rly!");
     Person person1 = new Person();
-    person1.firstName = "Marceli";
+    person1.firstName = "Janusz";
     System.out.println(person1.firstName);
   }
 }
