@@ -4,6 +4,6 @@ class Main {
     System.out.println("Hello home rly!");
     Person person1 = new Person();
     person1.firstName = "Ala";
-    System.out.println(person1.firstName);
+    System.out.println(person1.first);
   }
 }
